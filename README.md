@@ -1,2 +1,2 @@
 # PortScanrd
-Portscan in python, simple e fast for application and verify ports in system.
+Portscan in python, simple and fast for application and verify ports in system.
